@@ -33,8 +33,10 @@ Users should be able to:
 
 ### Screenshot
 
+- [Desktop]
 ![Desktop Light](./assets/design/desktop-design-light.jpg)
 ![Desktop Dark](./assets/design/desktop-design-dark.jpg)
+- [Mobile]
 ![Mobile light](./assets/design/mobile-design-light.jpg)
 ![Mobile Dark](./assets/design/mobile-design-dark.jpg)
 
@@ -42,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Here](https://todo-app-wan0805.vercel.app)
 
 ## My process
 
