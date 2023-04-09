@@ -37,14 +37,16 @@ Users should be able to:
 ![Desktop Light](./assets/design/desktop-design-light.jpg)
 ![Desktop Dark](./assets/design/desktop-design-dark.jpg)
 - [Mobile]
+
+
 ![Mobile light](./assets/design/mobile-design-light.jpg)
 ![Mobile Dark](./assets/design/mobile-design-dark.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Here](https://todo-app-wan0805.vercel.app)
+- [Solution URL](https://github.com/wan0805/todo-app)
+- [Live Site URL](https://todo-app-wan0805.vercel.app)
 
 ## My process
 
