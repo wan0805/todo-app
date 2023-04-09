@@ -83,7 +83,7 @@ function doCreateCard(input){
 }
 function getInputValue(event){
 	const key = event.code;
-	if(key === "Enter"){
+	if(key == "Enter"){
 		if(input.value == ""){
 			alert("field cannot be empty!!!");
 		}
