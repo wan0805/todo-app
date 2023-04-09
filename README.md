@@ -33,10 +33,9 @@ Users should be able to:
 
 ### Screenshot
 
-- [Desktop]
+
 ![Desktop Light](./assets/design/desktop-design-light.jpg)
 ![Desktop Dark](./assets/design/desktop-design-dark.jpg)
-- [Mobile]
 
 
 ![Mobile light](./assets/design/mobile-design-light.jpg)
@@ -45,8 +44,9 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/wan0805/todo-app)
-- [Live Site URL](https://todo-app-wan0805.vercel.app)
+-Solution URL: [todo-app(Solution)](https://github.com/wan0805/todo-app);
+
+-Live Site URL:[Todo-app(Vercel)](https://todo-app-wan0805.vercel.app);
 
 ## My process
 
